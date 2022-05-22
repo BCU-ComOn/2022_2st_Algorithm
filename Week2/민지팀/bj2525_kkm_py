@@ -1,5 +1,5 @@
 h, m = input().split()            #현우 :고생하셨습니다
-n = int(input())
+n = int(input())                  #민지 : 고생하셨습니답
 h = int(h)
 m = int(m)
 
