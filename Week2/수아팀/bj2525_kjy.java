@@ -27,3 +27,4 @@ public class bj2525_kjy {
         System.out.println(hour + " " + min);
     }
 }
+//수아: 이걸보니까 이해가 더 잘 가네요 ~
