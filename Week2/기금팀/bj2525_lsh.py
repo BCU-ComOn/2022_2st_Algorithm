@@ -1,5 +1,5 @@
 h,m=map(int,input().split())    #기곰 : 고생하셨습니다 :>
-time=int(input())
+time=int(input())               # 민규 : 수고하셨습니다 :)
 
 time_h =time // 60
 time_m =time % 60

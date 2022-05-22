@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Bj1297_Gigom {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {	// 민규 : 수고하셨습니다 :)
 		Scanner sc = new Scanner (System.in);
 		int D = sc.nextInt(); //대각선길이
 		int H = sc.nextInt(); //높이

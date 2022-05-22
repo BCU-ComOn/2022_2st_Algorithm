@@ -13,7 +13,7 @@ import java.util.Scanner;
  
 */
 public class Bj2753_Gigom {
-	public static int input() {
+	public static int input() {		// 민규 : 수고하셨습니다 :)
 		int y;
 		Scanner sc = new Scanner(System.in);
 		y = sc.nextInt();

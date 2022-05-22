@@ -1,7 +1,7 @@
 package ComonW6;
 import java.util.Scanner;
 
-public class Bj2525_Gigom {
+public class Bj2525_Gigom {		// 민규 : 수고하셨습니다 :)
 
 	public static void main(String[] args) {
 		int[] t = new int[2]; //크기가 2인 배열 t 를 생성
