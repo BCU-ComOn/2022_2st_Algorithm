@@ -18,7 +18,7 @@ public class bj2525_jyj {
 		System.out.print(a + " " + b);
 	}
 
-}
+}  // 유석 : 고생하셨습니다
 
 /*
  *public static void main(String[] args) {
