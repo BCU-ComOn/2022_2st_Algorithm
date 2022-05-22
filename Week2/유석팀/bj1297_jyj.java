@@ -12,4 +12,4 @@ public class bj1297_jyj {
 		System.out.println((int) Math.floor(x*H)+" "+(int) Math.floor(x*W));
 		sc.close();
 	}
-}
+} // 유석 : 고생하셨습니다
