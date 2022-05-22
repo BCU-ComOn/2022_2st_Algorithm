@@ -1,6 +1,6 @@
 package week02_22;
 
-import java.util.Scanner;
+import java.util.Scanner;					//경모 : 수고하셨습니다
 
 public class bj2525_kmj {
 
