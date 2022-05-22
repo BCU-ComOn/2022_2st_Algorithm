@@ -20,3 +20,4 @@ public class Main {
         System.out.print(hour+" "+min);
     }
 }
+ // 도현 : 고생하셨습니다!

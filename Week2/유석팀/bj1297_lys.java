@@ -15,3 +15,4 @@ public class Main {
         System.out.println(h + " " + w);
         }
 }
+ // 도현 : 고생하셨습니다 !

@@ -13,3 +13,4 @@ public class bj1297_jyj {
 		sc.close();
 	}
 } // 유석 : 고생하셨습니다
+ // 도현 : 고생하셨습니다 !
