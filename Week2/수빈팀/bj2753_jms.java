@@ -16,3 +16,4 @@ public class Main {
 		else System.out.println("0");
 	}
 }
+//수빈 : 수고하셨습니다!
