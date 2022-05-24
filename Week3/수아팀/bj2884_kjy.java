@@ -10,13 +10,16 @@ public class Main {
         int hour = in.nextInt();
         int min = in.nextInt();
         
+        // 45분 이상
         if (min >= 45) {
         	min -= 45;
         }
+        // 0시 일때
         else if (hour == 0) {
     		hour = 23;
     		min += 15;
     	}
+        // 0 시가 아니면서 45분 미만일때
     	else {
     		hour --;
     		min += 15;
