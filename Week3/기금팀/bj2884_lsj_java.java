@@ -1,4 +1,4 @@
-package day3;
+
 import java.util.Scanner;
 public class bj2884_lsj_java {
 	public static int[] cal(int[] time) {
@@ -32,6 +32,7 @@ public class bj2884_lsj_java {
 		String input_str=input.nextLine();
 		String[] split_str=input_str.split(" ");
 		int[] value= {Integer.parseInt(split_str[0]),Integer.parseInt(split_str[1])};
+		input.close()
 		return value;
 	}
 	public static void main(String[] args) {

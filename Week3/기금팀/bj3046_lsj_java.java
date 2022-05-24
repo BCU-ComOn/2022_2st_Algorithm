@@ -1,9 +1,10 @@
-package day3;
+
 import java.util.Scanner;
 public class bj3046_lsj_java {
 	public static int[] input() {
 		Scanner input = new Scanner(System.in);
 		int[] result= {input.nextInt(),input.nextInt()};
+		input.close
 		return result;
 	}
 	public static int find_R2(int[] val) {

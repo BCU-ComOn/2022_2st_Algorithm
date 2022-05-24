@@ -1,4 +1,4 @@
-package day3;
+
 import java.util.Scanner;
 public class bj5613_lsj_java {
 	public static Scanner input = new Scanner(System.in);
@@ -30,7 +30,7 @@ public class bj5613_lsj_java {
 				summary/=val;
 				break;	
 			default:
-				System.out.println("Àß¸øµÈ ¿¬»êÀÚÀÔ´Ï´Ù. +,-,*,/ ÀÇ ¿¬»êÀÚ¸¸ ÀÌ¿ëÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù.");
+				System.out.println("ì˜ëª»ëœ ì—°ì‚°ìì…ë‹ˆë‹¤.");
 			}
 		}
 	}
