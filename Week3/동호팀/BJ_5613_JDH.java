@@ -28,3 +28,4 @@ public class Main {
 		System.out.println(n1);
 	}
 }
+//학민:수고하셨습니다:)
