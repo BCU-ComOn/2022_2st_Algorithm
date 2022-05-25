@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
-
+//종혁 : 고생하셨습니다.
 public class bj14681_lds {
 
 	public static void main(String[] args) throws IOException {

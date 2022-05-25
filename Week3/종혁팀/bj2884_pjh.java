@@ -7,6 +7,7 @@ public class Bj2884 {
 		
 		int H = ex.nextInt();
 		int M = ex.nextInt();
+		ex.close();
 		
 		int result=M-45;
 		

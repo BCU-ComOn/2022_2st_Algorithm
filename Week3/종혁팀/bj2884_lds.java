@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// 종혁 : 고생하셨습니다.
 public class bj2884_lds {
 	public static void main(String[] args) {
     

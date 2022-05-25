@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//종혁 : 고생하셨습니다.
 public class bj3046_lds {
 
 	public static void main(String[] args) {
