@@ -1,4 +1,4 @@
-a=int(input())
+a=int(input()) #기금 : 고생하셨습니다!
 b=int(input())
 if a>0 and b>0:
     print(1)

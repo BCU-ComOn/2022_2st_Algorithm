@@ -1,4 +1,4 @@
-ex=input()
+ex=input()   #기금 : 고생하셨습니다!
 while(True):
     opr=input()
     if(opr=="="):

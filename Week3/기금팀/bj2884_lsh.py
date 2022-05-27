@@ -1,4 +1,4 @@
-H,M=map(int, input().split())
+H,M=map(int, input().split()) #기곰: 고생하셨습니다!
 if M>44:
     print(H,M-45)
 elif M<45 and H>0:

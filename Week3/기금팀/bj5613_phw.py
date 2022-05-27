@@ -1,4 +1,4 @@
-c=int(input())
+c=int(input())  #기금 : 고생하셨습니다 :>
 while True:
     b=input()
     if b == '=':

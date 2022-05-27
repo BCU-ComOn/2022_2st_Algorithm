@@ -1,4 +1,4 @@
-x = int(input())
+x = int(input()) #기금 : 고생하셨어요! :D
 y = int(input())
 
 if x>0 and y >0:

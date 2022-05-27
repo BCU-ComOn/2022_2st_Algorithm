@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //기곰 : 고생하셨습니다!
 
 public class bj3046_kmg {
 

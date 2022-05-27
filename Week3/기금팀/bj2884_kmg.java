@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // 기곰: 고생하셨어요!
 
 public class bj2884_kmg {
 	public static void main(String[] args) {

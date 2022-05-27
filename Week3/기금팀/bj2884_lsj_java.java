@@ -1,5 +1,5 @@
 
-import java.util.Scanner;
+import java.util.Scanner; //기금 : 고생하셨습니다!
 public class bj2884_lsj_java {
 	public static int[] cal(int[] time) {
 		int hour=time[0];

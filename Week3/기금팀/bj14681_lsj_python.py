@@ -1,4 +1,4 @@
-def quad(x,y):
+def quad(x,y): #기금: 고생하셨습니다! :)
     if(y>0):
         if(x>0):
             return 1

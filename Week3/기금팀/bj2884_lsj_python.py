@@ -1,4 +1,4 @@
-time=input().split()
+time=input().split() #기금 : 고생하셨습니다!
 for minute in range(0,45):
     time[1]=int(time[1])-1
     if(time[1]==-1):

@@ -1,4 +1,4 @@
-h,m = map(int,input().split())
+h,m = map(int,input().split()) #기금 : 고생하셨습니다!
 
 if m < 45:   
     if h-1<0:
