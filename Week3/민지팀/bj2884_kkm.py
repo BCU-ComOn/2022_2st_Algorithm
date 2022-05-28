@@ -1,6 +1,6 @@
 h, m = input().split()
 n = 45
-h = int(h)
+h = int(h)                            #민지 : 고생하셨습니다 ~!
 m = int(m)
 n = int(n)
 
