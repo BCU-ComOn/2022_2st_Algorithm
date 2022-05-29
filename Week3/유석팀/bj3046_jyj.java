@@ -11,3 +11,4 @@ public class bj3046_jyj {
 	}
 
 }
+//유석 : 고생하셨습니다
