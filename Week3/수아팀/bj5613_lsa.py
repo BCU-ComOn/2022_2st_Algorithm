@@ -15,4 +15,4 @@ while True :
         break               
 print(result)
         
-        
+# 주연 : 고생하셨습니다.

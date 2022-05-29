@@ -26,3 +26,4 @@ public class Main {
 	}
 }
 //수아: while문과 if문으로 하셔서 저도 이해할 수 있었어용!
+// 주연 : contentEquals를 까먹고 있었네요. 적절한 코드 입니다.
