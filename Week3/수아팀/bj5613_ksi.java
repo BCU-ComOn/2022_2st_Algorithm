@@ -25,3 +25,4 @@ public class Main {
             System.out.println(result); //최종 result안의 수를 출력한다. 
 	}
 }
+//수아: while문과 if문으로 하셔서 저도 이해할 수 있었어용!
