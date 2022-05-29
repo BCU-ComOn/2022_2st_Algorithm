@@ -27,3 +27,4 @@ public class bj5613_jyj {
 		System.out.println(x);
 	}
 }
+//유석 : 고생하셨습니다

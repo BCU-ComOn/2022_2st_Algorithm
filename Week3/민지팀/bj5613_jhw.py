@@ -1,7 +1,7 @@
 result = int(input())
 
 
-while True:
+while True:                             #민지 : 고생하셨습니다 ~!
     
     a = input()
     if a == '=':

@@ -1,7 +1,7 @@
 h,m = input().split()
 
-h = int(h)
-m = int(m)
+h = int(h)                    #민지 : 고생하셨습니다 ~!              
+m = int(m)                          
 
 if m >= 45:
     print(h,m-45)

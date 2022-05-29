@@ -1,5 +1,5 @@
 a,b = input().split()
-c = 0    
+c = 0                                 #민지 : 고생하셨습니다 ~!
 a = int(a)
 b = int(b)
 
